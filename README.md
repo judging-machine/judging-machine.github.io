@@ -1,2 +1,1 @@
-### Reasoning Machine
-A Machine that reasons.
+### Judging Machine

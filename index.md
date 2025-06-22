@@ -1,19 +1,19 @@
 ---
 layout: home
-title: Reasoning Machine
+title: Judging Machine
 ---
-# Reasoning Machine
+# Judging Machine
 
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
   book "Cybernetics, or Control and Communication in the Animal and the Machine".
 </pre>
 
-[Reasoning-Machine (meta)](https://reasoning-machine.github.io/meta/)
+[Judging-Machine (meta)](https://Judging-machine.github.io/meta/)
 
-[Reasoning-Machine (openai)](https://reasoning-machine.github.io/openai/)
+[Judging-Machine (openai)](https://Judging-machine.github.io/openai/)
 
-[Reasoning-Machine (fireworks)](https://reasoning-machine.github.io/fireworks/)
+[Judging-Machine (fireworks)](https://Judging-machine.github.io/fireworks/)
 
-[Reasoning-Machine (depsek)](https://reasoning-machine.github.io/depsek/)
+[Judging-Machine (depsek)](https://Judging-machine.github.io/depsek/)
 
